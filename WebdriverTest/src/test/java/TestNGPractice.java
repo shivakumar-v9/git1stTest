@@ -18,6 +18,7 @@ public class TestNGPractice {
 		driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get("http://demo.guru99.com/test/newtours/register.php");
+		//comment for git practice
 		
 	}
 	
