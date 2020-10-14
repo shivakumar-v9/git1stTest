@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8165" started-at="2019-10-23T13:19:30 EDT" finished-at="2019-10-23T13:19:38 EDT">
+  <suite name="Default suite" duration-ms="6839" started-at="2020-10-14T03:09:21Z" finished-at="2020-10-14T03:09:28Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8165" started-at="2019-10-23T13:19:30 EDT" finished-at="2019-10-23T13:19:38 EDT">
+    <test name="Default test" duration-ms="6839" started-at="2020-10-14T03:09:21Z" finished-at="2020-10-14T03:09:28Z">
       <class name="TestNGPractice">
-        <test-method status="PASS" signature="initiation()[pri:0, instance:TestNGPractice@5b87ed94]" name="initiation" is-config="true" duration-ms="7038" started-at="2019-10-23T13:19:30 EDT" finished-at="2019-10-23T13:19:37 EDT">
+        <test-method status="PASS" signature="initiation()[pri:0, instance:TestNGPractice@10abc94]" name="initiation" is-config="true" duration-ms="5208" started-at="2020-10-13T23:09:21Z" finished-at="2020-10-13T23:09:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiation -->
-        <test-method status="PASS" signature="TestNGTester()[pri:0, instance:TestNGPractice@5b87ed94]" name="TestNGTester" duration-ms="422" started-at="2019-10-23T13:19:37 EDT" finished-at="2019-10-23T13:19:37 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestNGTester -->
-        <test-method status="PASS" signature="end()[pri:0, instance:TestNGPractice@5b87ed94]" name="end" is-config="true" duration-ms="656" started-at="2019-10-23T13:19:37 EDT" finished-at="2019-10-23T13:19:38 EDT">
+        <test-method status="PASS" signature="end()[pri:0, instance:TestNGPractice@10abc94]" name="end" is-config="true" duration-ms="1626" started-at="2020-10-13T23:09:26Z" finished-at="2020-10-13T23:09:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
