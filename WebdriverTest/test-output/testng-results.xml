@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="0" passed="0">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6839" started-at="2020-10-14T03:09:21Z" finished-at="2020-10-14T03:09:28Z">
+  <suite name="Default suite" duration-ms="17990" started-at="2020-10-23T04:35:30Z" finished-at="2020-10-23T04:35:48Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6839" started-at="2020-10-14T03:09:21Z" finished-at="2020-10-14T03:09:28Z">
+    <test name="Default test" duration-ms="17990" started-at="2020-10-23T04:35:30Z" finished-at="2020-10-23T04:35:48Z">
       <class name="TestNGPractice">
-        <test-method status="PASS" signature="initiation()[pri:0, instance:TestNGPractice@10abc94]" name="initiation" is-config="true" duration-ms="5208" started-at="2020-10-13T23:09:21Z" finished-at="2020-10-13T23:09:26Z">
+        <test-method status="PASS" signature="initiation()[pri:0, instance:TestNGPractice@10abc94]" name="initiation" is-config="true" duration-ms="6689" started-at="2020-10-23T00:35:30Z" finished-at="2020-10-23T00:35:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiation -->
-        <test-method status="PASS" signature="end()[pri:0, instance:TestNGPractice@10abc94]" name="end" is-config="true" duration-ms="1626" started-at="2020-10-13T23:09:26Z" finished-at="2020-10-13T23:09:28Z">
+        <test-method status="PASS" signature="mouseOverActions()[pri:0, instance:TestNGPractice@10abc94]" name="mouseOverActions" duration-ms="6560" started-at="2020-10-23T00:35:37Z" finished-at="2020-10-23T00:35:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseOverActions -->
+        <test-method status="PASS" signature="end()[pri:0, instance:TestNGPractice@10abc94]" name="end" is-config="true" duration-ms="4732" started-at="2020-10-23T00:35:43Z" finished-at="2020-10-23T00:35:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
