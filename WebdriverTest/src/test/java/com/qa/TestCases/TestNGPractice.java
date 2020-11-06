@@ -28,7 +28,7 @@ public class TestNGPractice {
 		//driver.get("http://demo.guru99.com/test/newtours/register.php");
 		//comment for git practice
 		
-		//WebTable Testing URl
+		//WebTable Testing URl ..
 		//driver.get("http://demo.guru99.com/test/web-table-element.php");
 		
 		//MouseOverActions URL
